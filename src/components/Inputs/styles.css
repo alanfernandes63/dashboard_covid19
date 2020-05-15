@@ -1,0 +1,10 @@
+input{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+}
+select{
+    width: 100%;
+    height:30px;
+    border-radius: 5px;
+}
