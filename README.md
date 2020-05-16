@@ -20,3 +20,6 @@ yarn start
 ```
 ## Base das informações
 [Api](https://github.com/alanfernandes63/middleware_covid)
+
+## Colaboradores
+* **Alan Fernandes** - *Perfil github* - [alanfernandes63](https://github.com/alanfernandes63)
