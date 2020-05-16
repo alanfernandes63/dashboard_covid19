@@ -1,12 +1,12 @@
 # Dashboard-covid19
 
-### :thinking: Motivação
+## :thinking: Motivação
 Contrução de uma aplicação para visualização dos dados de casos e óbitos do covid-19 nos estados brasileiros, para que com isto a população possa ter uma noção do aumento ou diminuição destas informações.
 
-### [Site](https://nostalgic-beaver-d44652.netlify.app)
+## [Site](https://nostalgic-beaver-d44652.netlify.app)
 <img src="/static/dashboard_covid19.png">
 
-### Como contribuir
+## Como contribuir
 Faça um fork
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
