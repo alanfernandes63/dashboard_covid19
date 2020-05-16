@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 ### Site
-<img src="/static/dashboard.png">
+<img src="/static/dashboard_covid19.png">
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
