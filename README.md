@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `yarn start`
-### [Site](https://nostalgic-beaver-d44652.netlify.app)
+## [Site](https://nostalgic-beaver-d44652.netlify.app)
 <img src="/static/dashboard_covid19.png">
 
 Runs the app in the development mode.<br />
