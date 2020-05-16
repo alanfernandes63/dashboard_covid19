@@ -22,6 +22,7 @@ Faça um fork do projeto e clone na sua máquina
   <li>Node js vs: 12+</li>
   <li>yarn vs: 1.17+</li>
 </ul>
+
 ## Instalação
 Na raiz do projeto execute
 ```
