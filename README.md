@@ -6,8 +6,22 @@ Contrução de uma aplicação para visualização dos dados de casos e óbitos 
 ## [Site](https://nostalgic-beaver-d44652.netlify.app)
 <img src="/static/dashboard_covid19.png">
 
+## Bibliotecas utilizadas
+<ul>
+  <li>React js</li>
+  <li>Redux</li>
+  <li>React-redux</li>
+  <li>Material ui</li>
+  <li>Highcharts</li>
+</ul>
+
 ## Como contribuir
 Faça um fork do projeto e clone na sua máquina
+## Requisitos
+<ul>
+  <li>Node js vs: 12+</li>
+  <li>yarn vs: 1.17+</li>
+</ul>
 ## Instalação
 Na raiz do projeto execute
 ```
