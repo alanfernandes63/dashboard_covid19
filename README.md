@@ -1,11 +1,7 @@
 # Dashboard-covid19
 
 ### :thinking: Motivação
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+Contrução de uma aplicação para visualização dos dados de casos e óbitos do covid-19 nos estados brasileiros, para que com isto a população possa ter uma noção do aumento ou diminuição destas informações.
 
 ### `yarn start`
 ## [Site](https://nostalgic-beaver-d44652.netlify.app)
