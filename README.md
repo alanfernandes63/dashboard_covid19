@@ -15,16 +15,16 @@ Contrução de uma aplicação para visualização dos dados de casos e óbitos 
 
 ## Como contribuir
 Faça um fork do projeto e clone na sua máquina
-## Requisitos
+## :memo: Requisitos
 - [Node](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
 
-## Instalação de depedências
+## :gear: Instalação de depedências
 Execute o seguinte comando
 ```
 yarn
 ```
-## :gear: Excutando projeto
+## :computer: Excutando projeto
 Para executar o projeto execute o seguinte comando
 ```
 yarn start
