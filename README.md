@@ -16,10 +16,8 @@ Contrução de uma aplicação para visualização dos dados de casos e óbitos 
 ## Como contribuir
 Faça um fork do projeto e clone na sua máquina
 ## Requisitos
-<ul>
-  <li>Node js vs: 12+</li>
-  <li>yarn vs: 1.17+</li>
-</ul>
+- [Node](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
 
 ## Instalação de depedências
 Execute o seguinte comando
