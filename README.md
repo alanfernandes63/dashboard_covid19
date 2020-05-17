@@ -6,7 +6,7 @@ Contrução de uma aplicação para visualização dos dados de casos e óbitos 
 ## [Site](https://nostalgic-beaver-d44652.netlify.app)
 <img src="/static/dashboard_covid19.png">
 
-## Bibliotecas utilizadas
+## :hammer: Tecnologias
 - [React js](https://pt-br.reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [React-redux](https://redux.js.org/basics/usage-with-react)
@@ -24,12 +24,12 @@ Execute o seguinte comando
 ```
 yarn
 ```
-## Excutando projeto
+## :gear: Excutando projeto
 Para executar o projeto execute o seguinte comando
 ```
 yarn start
 ```
-## Base das informações
+## :floppy_disk: Base das informações
 [Api](https://github.com/alanfernandes63/middleware_covid)
 
 ## Colaboradores
