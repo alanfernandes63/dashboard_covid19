@@ -7,11 +7,11 @@ Contrução de uma aplicação para visualização dos dados de casos e óbitos 
 <img src="/static/dashboard_covid19.png">
 
 ## Bibliotecas utilizadas
--[React js](https://pt-br.reactjs.org/)
--[Redux](https://redux.js.org/)
--[React-redux](https://redux.js.org/basics/usage-with-react)
--[Material ui](https://material-ui.com/pt/)
--[Highcharts](https://www.highcharts.com/)
+- [React js](https://pt-br.reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [React-redux](https://redux.js.org/basics/usage-with-react)
+- [Material ui](https://material-ui.com/pt/)
+- [Highcharts](https://www.highcharts.com/)
 
 ## Como contribuir
 Faça um fork do projeto e clone na sua máquina
