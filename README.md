@@ -23,15 +23,15 @@ Faça um fork do projeto e clone na sua máquina
   <li>yarn vs: 1.17+</li>
 </ul>
 
-## Instalação
-Na raiz do projeto execute
-```
-yarn install
-```
-## Excutando projeto
-Na raiz do projeto execute
+## Instalação de depedências
+Execute o seguinte comando
 ```
 yarn
+```
+## Excutando projeto
+Para executar o projeto execute o seguinte comando
+```
+yarn start
 ```
 ## Base das informações
 [Api](https://github.com/alanfernandes63/middleware_covid)
