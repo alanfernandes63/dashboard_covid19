@@ -32,5 +32,5 @@ yarn start
 ## :floppy_disk: Base das informações
 [Api](https://github.com/alanfernandes63/middleware_covid)
 
-## Colaboradores
+## :busts_in_silhouette: Autores
 * **Alan Fernandes** - *Perfil github* - [alanfernandes63](https://github.com/alanfernandes63)
