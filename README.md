@@ -8,7 +8,7 @@ Contrução de uma aplicação para visualização dos dados de casos e óbitos 
 
 ## Bibliotecas utilizadas
 <ul>
-  <li>React js</li>
+  <li>[React js](https://pt-br.reactjs.org/)</li>
   <li>Redux</li>
   <li>React-redux</li>
   <li>Material ui</li>
