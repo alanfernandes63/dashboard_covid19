@@ -31,7 +31,7 @@ yarn install
 ## Excutando projeto
 Na raiz do projeto execute
 ```
-yarn start
+yarn
 ```
 ## Base das informações
 [Api](https://github.com/alanfernandes63/middleware_covid)
