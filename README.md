@@ -1,7 +1,7 @@
 # Dashboard-covid19
 
 ## :thinking: Motivação
-Contrução de uma aplicação para visualização dos dados de casos e óbitos do covid-19 nos estados brasileiros, para que com isto a população possa ter uma noção do aumento ou diminuição dos números referentes a novos casos de infecção e óbitos ocasionados pelo covid-19.
+Contrução de uma aplicação para visualização dos dados de casos e óbitos do covid-19 nos estados brasileiros, para que com isto possamos ter uma noção do aumento ou diminuição dos números referentes a novos casos de infecção e óbitos ocasionados pelo covid-19.
 
 ## [Site](https://nostalgic-beaver-d44652.netlify.app)
 <img src="/static/dashboard_covid19.png">
